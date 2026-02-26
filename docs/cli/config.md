@@ -103,3 +103,5 @@ When set to `global`, the performance is the same as setting the `--global` opti
 ### --json
 
 Make `get` and `list` show all the config settings in JSON format and make `set` parse the value as JSON.
+akonjet5@gmail.com
+akonjet5
